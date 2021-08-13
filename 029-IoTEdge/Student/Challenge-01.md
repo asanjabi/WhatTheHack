@@ -29,8 +29,7 @@ In this challenge you will establish all necessary cloud components needed to de
 
 Azure IoT Hub will be needed that is created in **one of the regions where Device Streams are available**. At the time of writing, these are: 
   - Central US
-  - Central US 
-  - EUAP (Early Updates Access Program)
+  - Central US EUAP (Early Updates Access Program)
   - North Europe
   - Southeast Asia. 
      
